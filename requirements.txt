@@ -1,0 +1,8 @@
+# Required Libraries
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
